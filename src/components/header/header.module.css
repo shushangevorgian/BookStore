@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Roboto:wght@300&display=swap');
+
+.parent {
+    display: flex;
+    align-items: center;
+    height: 12vh;
+    background-color: #d9cfb4;
+}
+
+.children {
+    margin-left: 25px;
+}
+
+.title {
+    font-family: 'Carter One', cursive;
+    font-size: 45px;
+    margin: 0 auto;
+}

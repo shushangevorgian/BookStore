@@ -1,0 +1,60 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.add {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+
+.information {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    margin-right: 15px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: calc(100vh - 120.15px);
+}
+
+.marginDiv {
+    height: 5vh;
+}
+
+
+.btnsParent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cancelButton {
+    width: 80%;
+    height: 10vh;
+    font-size: 18px;
+    text-align: start;
+    cursor: pointer;
+    background: none;
+}
+
+.submitButton {
+    width: 20%;
+    background: #ecd9;
+    height: 10vh;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+
+}

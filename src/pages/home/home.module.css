@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Roboto:wght@300&display=swap');
+
+.parent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+.children {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 15px;
+    max-width: 150px;
+    margin: 0
+}
+
+.fixing {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid #808080;
+    margin-left: 30px;
+    width: 220px;
+    height: 40vh;
+    margin-bottom: 5px;
+
+}
+
+.image {
+    margin: 0 auto;
+    width: 80%
+}
+
+.btns {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btnsParent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.search {
+    width: 20%;
+    margin: 25px 0 0 25px;
+}
+
+.fixingPositions {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.addingBtn {
+    background-color: #f5ece7;
+    font-size: 12px;
+    cursor: pointer;
+    width: 15%;
+    margin: 25px 25px 0 0;
+}
+
+.picTitleParent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.titleParent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 25px 5px 0 5px;
+}
+
+.price {
+    margin: 0
+}
+
+.searchingBtn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+    text-align: start;
+    font-size: 18px;
+    font: inherit;
+    letter-spacing: inherit;
+}
+
+.btnsParentSearch {
+    display: flex;
+    flex-direction: column;
+}
+
+.border {
+    width: 15%;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.pricesParent {
+    display: flex;
+    flex-direction: column;
+}
+
+.priceBtns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.discount {
+    background: orange;
+    border-radius: 5px;
+    height: 2vh;
+    padding-top: 5px;
+    margin-top: 2px;
+}
+
+.priceDiscount{
+    color:red;
+    margin:0
+}

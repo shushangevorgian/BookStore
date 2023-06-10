@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Coding ",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non facilisis justo. Nullam molestie scelerisque bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean posuere sagittis metus, eu pellentesque ex malesuada vitae. Vestibulum at enim ante. Etiam dignissim feugiat dignissim. Morbi non dictum arcu. Morbi rutrum lectus posuere augue iaculis consectetur. Morbi et sagittis enim. Curabitur ac erat vel neque fermentum feugiat. Mauris efficitur eu ex ac semper. In malesuada leo a ante sagittis, vel mollis ",
+      "price": "25",
+      "discount": "10",
+      "image": "https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto,fl_lossy,q_auto/s3-ghost//2018/11/Pragmatic.jpg"
+    },
+    {
+      "title": "React",
+      "price": "50",
+      "discount": "20",
+      "image": "https://miro.medium.com/v2/resize:fit:754/0*BOy-EA_tf45TrdUW.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non facilisis justo. Nullam molestie scelerisque bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean posuere sagittis metus, eu pellentesque ex malesuada vitae. Vestibulum at enim ante. Etiam dignissim feugiat dignissim. Morbi non dictum arcu. Morbi rutrum lectus posuere augue iaculis consectetur. Morbi et sagittis enim. Curabitur ac erat vel neque fermentum feugiat. Mauris efficitur eu ex ac semper. In malesuada leo a ante sagittis, vel mollis ",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Javascript",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non facilisis justo. Nullam molestie scelerisque bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean posuere sagittis metus, eu pellentesque ex malesuada vitae. Vestibulum at enim ante. Etiam dignissim feugiat dignissim. Morbi non dictum arcu. Morbi rutrum lectus posuere augue iaculis consectetur. Morbi et sagittis enim. Curabitur ac erat vel neque fermentum feugiat. Mauris efficitur eu ex ac semper. In malesuada leo a ante sagittis, vel mollis ",
+      "price": "65",
+      "discount": "0",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-laCiCPCMLCv3FCZGnCx6n2aaL0Q-BS_ztw&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "TypeScript",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non facilisis justo. Nullam molestie scelerisque bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean posuere sagittis metus, eu pellentesque ex malesuada vitae. Vestibulum at enim ante. Etiam dignissim feugiat dignissim. Morbi non dictum arcu. Morbi rutrum lectus posuere augue iaculis consectetur. Morbi et sagittis enim. Curabitur ac erat vel neque fermentum feugiat. Mauris efficitur eu ex ac semper. In malesuada leo a ante sagittis, vel mollis ",
+      "price": "55",
+      "discount": "0",
+      "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4302-6790-4"
+    },
+    {
+      "id": 5,
+      "title": "Python",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non facilisis justo. Nullam molestie scelerisque bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean posuere sagittis metus, eu pellentesque ex malesuada vitae. Vestibulum at enim ante. Etiam dignissim feugiat dignissim. Morbi non dictum arcu. Morbi rutrum lectus posuere augue iaculis consectetur. Morbi et sagittis enim. Curabitur ac erat vel neque fermentum feugiat. Mauris efficitur eu ex ac semper. In malesuada leo a ante sagittis, vel mollis ",
+      "price": "80",
+      "discount": "0",
+      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20190709181948/Python-Crash-Course.jpg"
+    }
+  ]
+}

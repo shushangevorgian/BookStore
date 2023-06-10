@@ -1,0 +1,46 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    margin-left: 25px
+}
+
+.infoParent {
+    display: flex;
+    flex-direction: column;
+    padding: 0 25px 0 25px
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.imgParent {
+    margin-top: 25px;
+
+}
+
+.desc {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.bodyParent {
+    width: 70%;
+}
+
+.counts {
+    display: flex;
+    flex-direction: row;
+    background: #efd7cb;
+    width: 15%;
+    border-radius: 10px;
+}
+
+.price {
+    margin-left: 15px;
+}
+.infoPrice{
+    margin-left: 10px;
+    color:red
+}
